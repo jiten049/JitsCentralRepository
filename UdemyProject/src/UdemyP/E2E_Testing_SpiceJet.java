@@ -20,7 +20,7 @@ public class E2E_Testing_SpiceJet {
 		
 		driver.findElement(By.xpath("//a[@class='ui-state-default ui-state-highlight ui-state-active ui-state-hover'")).click();
 	
-		
+		System.out.println("Changes Made");
 		
 
 	}
